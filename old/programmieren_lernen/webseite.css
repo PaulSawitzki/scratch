@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+h1 {
+	color: aqua;
+}
+
+p {
+	font-family: sans-serif;
+	color: navy;
+}
+
+#auswahlfeld {
+	border: solid;
+}
